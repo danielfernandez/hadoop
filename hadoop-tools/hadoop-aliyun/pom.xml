@@ -18,7 +18,7 @@
   <parent>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-project</artifactId>
-    <version>3.3.1</version>
+    <version>3.3.1_HADOOP-17705-17771</version>
     <relativePath>../../hadoop-project</relativePath>
   </parent>
   <artifactId>hadoop-aliyun</artifactId>
